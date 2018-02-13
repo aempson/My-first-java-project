@@ -94,6 +94,8 @@
     	System.out.println(iFirstName + (" ") +  iLastName);
     	
    		System.out.println("Your Subtotal is: $" + cSubtotal);
+	//Garrett's change
+	System.out.println("You recieved a 20% dicount of: $" + cDiscount);
      
      	System.out.println("Your sales tax is: $" + cSalesTax);
     
