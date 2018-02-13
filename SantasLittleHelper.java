@@ -73,6 +73,7 @@
     }
     
     public static void calcs() {
+	// Andrews Changes
     	cSubtotal = iPrice1 + iPrice2;
 	cDiscont = cSubtotal * .2;
     	cSalesTax = cSubtotal * .07;
